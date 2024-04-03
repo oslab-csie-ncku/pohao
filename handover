@@ -1,0 +1,6 @@
+- configs/pim/*
+- configs/example/fs.py
+- configs/common/MemConfig.py
+- configs/common/Simulation.py
+- src/mem/DRAMCtrl.py
+- pohao_gem5_stuff/*
